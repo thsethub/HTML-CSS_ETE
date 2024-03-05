@@ -1,0 +1,16 @@
+table{
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+.primeira-linha{
+    background-color: blueviolet;
+}
+.primeira-linha td{
+    color: white;
+}
+#coluna{
+    background-color: brown;
+}

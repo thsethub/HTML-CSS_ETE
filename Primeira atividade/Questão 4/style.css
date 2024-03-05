@@ -1,0 +1,21 @@
+.caixa-imagem{
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    background-image: url(https://media.licdn.com/dms/image/C5612AQGqZux4CPcnFQ/article-cover_image-shrink_600_2000/0/1520133207560?e=2147483647&v=beta&t=VTcmq7lAT6UICvw7cafIDfxhTWqFws9O-FeF0Z4-OCA);
+    background-size: cover;
+}
+.primeira-caixa{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    padding: 10px;
+}
+.segunda-caixa{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    padding: 10px;
+}
